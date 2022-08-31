@@ -1,2 +1,1 @@
-a script that prints the absolute path name of the current working directory.
-Task 0. Where am I
+a script that prints the list of contents in a directorys
